@@ -1,0 +1,1 @@
+[Vide Lecture](http://albertcervantes.com/cs4220/lectures/cs4220-2019-04-28-sun.mp4)
